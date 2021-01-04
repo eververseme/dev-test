@@ -1,3 +1,3 @@
-<iframe style="height:300px; width:700px;" src="https://eververse.me/character">
+<iframe style="height:auto; width:1200px;" src="https://eververse.me/character">
 Test
 </iframe>
