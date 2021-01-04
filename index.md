@@ -6,6 +6,6 @@
 }
   </style>
   
-<iframe style="height:900px; width:1400px; border:none;" src="https://eververse.me/character">
+<iframe style="height:1400px; width:1300px; border:none;" src="https://eververse.me/character">
 Testttraaa
 </iframe>
